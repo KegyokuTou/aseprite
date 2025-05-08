@@ -94,5 +94,5 @@ jobs:
       with:
         name: aseprite
         path: |
-          /Users/tangjiayu/runner/work/aseprite/aseprite/build/bin/data
-          /Users/tangjiayu/runner/work/aseprite/aseprite/build/bin/aseprite
+          /Users/runner/work/aseprite/aseprite/build/bin/data
+          /Users/runner/work/aseprite/aseprite/build/bin/aseprite
